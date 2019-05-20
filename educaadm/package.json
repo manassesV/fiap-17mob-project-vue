@@ -9,10 +9,14 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.13",
     "core-js": "^2.6.5",
+    "firebase": "^6.0.2",
     "register-service-worker": "^1.6.2",
+    "three": "^0.104.0",
     "ui": "^0.2.4",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
+    "vue-threejs": "^0.2.0-alpha.1",
+    "vue-threejs-composer": "^1.2.0",
     "vuex": "^3.1.0"
   },
   "devDependencies": {
